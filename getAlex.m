@@ -1,3 +1,3 @@
 function s = getAlex
-    s = fileread('C:\WORKING\Temp\alexdata.txt');
+    s = fileread('alexdata.txt');
 end
